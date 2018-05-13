@@ -232,7 +232,7 @@ $('document').ready(function(){
 
 //map
 
-     function initMap() {
+ function initMap() {
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 16,
     maxZoom:16,

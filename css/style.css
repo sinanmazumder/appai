@@ -730,7 +730,7 @@ body{
     margin: 0;
     overflow: hidden;
     margin-top: 30px;
-    margin-left: 30px;
+    display: inline-block;
 }
 .team .box ul li{
     list-style: none;
@@ -1466,6 +1466,7 @@ body{
 /*footer section*/
 .footer{
     position: relative;
+    overflow: hidden;
     background: #2B323F;
     height: 600px;
 }

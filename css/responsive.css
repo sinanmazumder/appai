@@ -1,5 +1,5 @@
 /* home section */
-@media screen and (max-width: 1174px){
+@media screen and (max-width: 1199.98px){
     .owl-item > div{
         margin: 30% 18%;
     }
@@ -21,7 +21,7 @@
 }
 
 
-@media screen and (max-width: 988px){
+@media screen and (max-width: 991.98px){
     .header .fixed-top {
         padding: 0 10%;
     }
@@ -58,7 +58,7 @@
     }
 }
 
-@media screen and (max-width: 746px){
+@media screen and (max-width: 767.98px){
     .bg-carousel {
         height: 300px;
     }
@@ -127,14 +127,14 @@
 
 
 /* start about section */
-@media screen and (max-width: 1189px){
+@media screen and (max-width: 1199.98px){
     .work .content.content2{
         position: relative;
         margin-top: 50px;
     }
 }
 
-@media screen and (max-width: 987px){
+@media screen and (max-width: 991.98px){
     #about .image img {
         margin-top: 0;
         width: 100%;
@@ -156,7 +156,7 @@
 
 
 /*feature secttion*/
-@media screen and (max-width: 990px){
+@media screen and (max-width: 991.98px){
     .videopopupjs__content{
         height: 86%;
         width: 86%;
@@ -177,7 +177,7 @@
     }
 }
 
-@media screen and (max-width: 766px){
+@media screen and (max-width: 767.98px){
     #screenshot .carousel {
         height: 370px;
         width: 100%;
@@ -196,17 +196,10 @@
 
 
 /*screenshot section*/
-@media screen and (max-width: 1168px){
+@media screen and (max-width: 1199.98px){
     .team .box p{
         font-size: 10px;
         line-height: 15px;
-    }
-    .team .box ul{
-        position: absolute;
-        bottom: 30px;
-        left: 40%;
-        transform: translateX(-50%);
-        width: 80%;
     }
 }
 
@@ -237,12 +230,7 @@
         top: 50%;
         left: 50%;
     }
-    .team .box ul {
-        position: absolute;
-        bottom: 80px;
-        left: 50%;
-        transform: translateX(-50%);
-    }
+   
     .testimonial .box .icons {
         font-size: 20px;
         left: 5px;
@@ -253,10 +241,6 @@
 }
 
 @media screen and (max-width: 550px){
-    .team .box ul{
-        left: 50%;
-        transform: translateX(-34%);
-    }
     .team .box ul li{
         width: 45px;
         height: 45px;
@@ -265,10 +249,7 @@
 }
 
 @media screen and (max-width: 472px){
-    .team .box ul {
-        left: 50%;
-        transform: translateX(-41%);
-    }
+   
 }
 
 @media screen and (max-width: 450px){
@@ -278,17 +259,6 @@
     }
 }
 
-@media screen and (max-width: 370px){
-    .team .box ul {
-        transform: translateX(-50%);
-    }
-}
-
-@media screen and (max-width: 357px){
-    .team .box ul {
-        bottom: 20px;
-    }
-}
 
 @media screen and (max-width: 315px){
     .team .box ul li {
